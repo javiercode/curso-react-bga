@@ -1,5 +1,6 @@
 import React from 'react'
 import ListaPropiedades from './ListaPropiedades'
+import Filtro from './Filtro'
 import '../styles/home.css'
 
 const Home = (props) => {
